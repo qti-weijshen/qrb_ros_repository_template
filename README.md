@@ -27,19 +27,14 @@
 > - Any other information to help users easily understand the diagram
 > - ❗ Module names should not use internal or private terms; please use community-friendly terminology
 
-## 🔎 Table of Contents (Optional)
+## 🔎 Table of Contents
 
-> 📌 If the content is extensive, we recommend adding a table of contents.
-
-  * [APIs](#-apis)
-  * [Supported Targets](#-supported-targets)
-  * [Installation](#-installation)
-  * [Usage](#-usage)
-  * [Build from Source](#-build-from-source)
-  * [Contributing](#-contributing)
-  * [Contributors](#%EF%B8%8F-contributors-optional)
-  * [FAQs](#-faqs-optional)
-  * [License](#-license)
+  * [Robotics SDK Overview](#-apis)
+  * [Robotics SDK Architecture](#-supported-targets)
+  * [Get Started with Robotics SDK](#-installation)
+  * [Tutorial](#-usage)
+  * [API](#-build-from-source)
+  * [Troubleshooting](#-contributing)
 
 ## ⚓ APIs
 
